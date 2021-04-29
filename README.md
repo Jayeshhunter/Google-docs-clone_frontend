@@ -1,3 +1,9 @@
+# Welcome to my-clone
+
+This project is a clone of google docs wherein you can create and save,share docs to anyone to keep your important information 
+
+## This project was built using MERN stack with socket.io and QuillJs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
